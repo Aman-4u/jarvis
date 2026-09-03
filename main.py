@@ -15,8 +15,8 @@ import pyzmail
 
 engine = pyttsx3.init()
 
-EMAIL = "amanpateljml06@gmail.com"
-APP_PASSWORD = "bvvpurkhmateorf"
+EMAIL = "enter your gmail"
+APP_PASSWORD = "enter 12 digit genrated password"
 
 # ---------- MEMORY ----------
 def init_memory():
